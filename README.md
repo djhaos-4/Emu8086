@@ -223,4 +223,4 @@ Emu8086 is offered as a full free version, with all features and updates include
 Download Emu8086 today and dive into the fascinating world of legacy computing! Enjoy the full power of retro software development on your modern Windows system.
 
 ---
-**Last updated:** 2026-09-23 18:07:14 UTC
+**Last updated:** 2026-09-23 21:55:37 UTC
